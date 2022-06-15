@@ -1,0 +1,22 @@
+segment_sources:
+  I37391A93:
+    type: origin_type
+    relation: translation
+    language: en
+  IB9F509C5:
+    type: origin_type
+    relation: translation
+    language: pt
+  I24A9B230:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fc62b221a4964980b3e2a32e844934ce:
+    I37391A93: 0d90e424dcb24a29a56d9e95189fe7a5
+    IB9F509C5: c80f8dc4890c4db48b3670b0309db32e
+    I24A9B230: 4d26b97abe7f446287e542e9ddbaf16d
+  e0b4e3ace940455e9aef4c84615e28cc:
+    I37391A93: cf6cf594422a4adb9be4ae19908715a4
+    IB9F509C5: 1f68d4d9fbff4a16b11bf0162f609400
+    I24A9B230: 71d23aaf0fd14850a80b4775b4f8476f
